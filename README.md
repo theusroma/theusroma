@@ -1,10 +1,8 @@
-## Olá!! Eu sou a Sally (๑>◡<๑)
+## MY NAME IS MATHEUS
 
-- 📖 Estou cursando Ciência da Computação
-- 🌸 Estudando na Universidade Positivo
-- 🍒 amo cerejas!
-- 💬 Contate-me no email: rebecca.beccari@cs.up.edu.br
-- 🐈‍⬛ Pronouns: Ela/Dela
+- 👨🏽‍💻 Cursando Ciência da Computação
+- 🏫 Universidade Positivo
+- 📧 Contate-me no email: eu.matheus0112@gmail.com
 
 <div>
 <a href="https://github.com/sallybato">
