@@ -7,6 +7,7 @@
 <div>
 <a href="https://github.com/theusroma">
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <br>
   <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallybato&layout=compact&langs_count=16&theme=monokai"/>
 </div>
   
