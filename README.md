@@ -15,7 +15,7 @@
   <img align="center" alt="Theus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Theus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Theus-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Theus" height= "130" width="140" src="https://github.com/user-attachments/assets/902fe366-cce1-487b-a472-a62b2d6eb248">
+  <!--<img align="right" alt="Theus" height= "130" width="140" src="https://github.com/user-attachments/assets/902fe366-cce1-487b-a472-a62b2d6eb248">--> 
   <img align="center" alt="TheusJava" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </div>
                 
