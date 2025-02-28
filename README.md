@@ -6,7 +6,7 @@
 - Vai se atrever⁉️
 <div>
 <a href="https://github.com/theusroma">
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br>
