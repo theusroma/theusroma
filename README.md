@@ -8,6 +8,16 @@
 <a href="https://github.com/theusroma">
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sally-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Sally-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="right" alt="Sally" height= "130" width="140" src="https://github.com/user-attachments/assets/902fe366-cce1-487b-a472-a62b2d6eb248">
+  <img align="center" alt="SallyJava" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Theus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
