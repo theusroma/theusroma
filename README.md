@@ -17,7 +17,7 @@
   <img align="center" alt="Theus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Theus-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="TheusJava" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img align="center" alt="TheusPython" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
           
 </div>
                 
