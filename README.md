@@ -3,7 +3,7 @@
 ● Data Science | Positivo university
 <div>
 <a href="https://github.com/theusroma">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <br>
   
  <!--Linguagens mais usadas--> 
