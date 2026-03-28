@@ -7,9 +7,10 @@
   <br> --> 
   
  <!--Linguagens mais usadas--> 
- <!-- <img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusroma&layout=compact&langs_count=16&theme=monokai"/> -->
+ <!-- <img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusroma&layout=compact&langs_count=16&theme=monokai"/> 
  <img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusroma&layout=compact&langs_count=16&theme=monokai&count_private=true&cache_seconds=5"/>
 </div>
+ --> 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Theus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
