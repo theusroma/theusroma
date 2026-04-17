@@ -22,7 +22,7 @@ Estudante de Ciência da Computação
 ### Estatísticas
 
 <div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=monokai&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=monokai&include_all_commits=false"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusroma&layout=compact&langs_count=8&theme=monokai"/>
 </div>
 
