@@ -1,36 +1,44 @@
-## Matheus Santos
+# Olá, eu sou o Matheus Santos! 👋
 
-● Data Science | Positivo university
-<div>
-<!-- <a href="https://github.com/theusroma">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <br> --> 
-  
- <!--Linguagens mais usadas--> 
- <!-- <img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusroma&layout=compact&langs_count=16&theme=monokai"/> 
- <img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusroma&layout=compact&langs_count=16&theme=monokai&count_private=true&cache_seconds=5"/>
+Estudante de **Ciência da Computação** na Universidade Positivo e estagiário no **Banco do Brasil**. Sou apaixonado por desenvolvimento de software, entusiasta de motocicletas e atualmente focado em criar experiências interativas com Unity.
+
+---
+
+### 🛠️ No que estou trabalhando agora:
+* 🏎️ **Moto Project:** Desenvolvendo um jogo de corrida top-down usando **Unity** e **C#**, com foco em simulação e física de movimento.
+* 📊 **Machine Learning & Scraping:** Explorando análise de dados com **Python**, Scikit-learn e automação com Selenium.
+* 🏦 **Fintech & Backend:** Aprimorando conhecimentos em Java e PHP no ambiente bancário.
+
+---
+
+### 🚀 Tecnologias e Ferramentas:
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="CSharp" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+  <img align="center" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="C" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
- --> 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Theus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Theus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Theus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Theus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Theus-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="TheusJava" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="TheusPython" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="TheusCSHARP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">  
-        
-          
+
+### 📊 Minhas Estatísticas:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusroma&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-                
-  ##
-  <div> 
-  <a href="https://www.instagram.com/_theusroma/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eu.matheus0112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- <a href="https://www.linkedin.com/in/rebecca-beccari-63236032b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
- <!--<a href="https://open.spotify.com/playlist/4hNCVQR5mCWXzJdD8rou3A?si=9dab356e5dd3422c" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> --> 
-  <!-- -->
-  
+
+---
+
+### 📫 Vamos nos conectar?
+
+<div style="display: inline_block">
+  <a href="https://www.instagram.com/_theusroma/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:eu.matheus0112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+---
+*"Correndo na pista e no código."* 🏍️💻
