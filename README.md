@@ -12,19 +12,16 @@ Estudante de Ciência da Computação
   <img align="center" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML5" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
 </div>
 
 ---
 
 ### Estatísticas
 
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=monokai&include_all_commits=false"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusroma&layout=compact&langs_count=8&theme=monokai"/>
-</div>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=theusroma&show_icons=true&theme=monokai" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusroma&layout=compact&theme=monokai" />
+</p>
 
 ---
 
