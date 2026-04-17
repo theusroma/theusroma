@@ -1,15 +1,3 @@
-# Olá, eu sou o Matheus Santos! 👋
-
-Estudante de **Ciência da Computação** na Universidade Positivo e estagiário no **Banco do Brasil**. Sou apaixonado por desenvolvimento de software, entusiasta de motocicletas e atualmente focado em criar experiências interativas com Unity.
-
----
-
-### 🛠️ No que estou trabalhando agora:
-* 🏎️ **Moto Project:** Desenvolvendo um jogo de corrida top-down usando **Unity** e **C#**, com foco em simulação e física de movimento.
-* 📊 **Machine Learning & Scraping:** Explorando análise de dados com **Python**, Scikit-learn e automação com Selenium.
-* 🏦 **Fintech & Backend:** Aprimorando conhecimentos em Java e PHP no ambiente bancário.
-
----
 
 ### 🚀 Tecnologias e Ferramentas:
 
